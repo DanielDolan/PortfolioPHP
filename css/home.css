@@ -1,0 +1,35 @@
+.jumbotron{
+    height:50vh;
+    background:url(../images/heronew.jpg);
+    background-size:cover;
+    font-family: 'Carter One', cursive;
+}
+
+
+.card-img-top {
+  width: 100%;
+  height: 40vh;
+  object-fit: cover;
+  color:black;
+  }
+  .card-text{
+      color: black;
+      font-family: 'Oswald', sans-serif;
+  }
+  .card-title{
+      color: black;
+      font-family: 'Oswald', sans-serif;
+  }
+.alert {    
+    color: white;
+  }
+  .container-fluid{
+    width: 100%;
+    padding-right: 0;
+    padding-left: 0;
+    margin-right: auto;
+    margin-left: auto;
+    overflow: hidden;
+  }
+
+  

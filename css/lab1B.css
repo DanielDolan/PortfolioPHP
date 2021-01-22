@@ -1,0 +1,11 @@
+.intro{
+    width: 50%;
+    margin: auto;
+}
+
+.jumbotron{
+    height:50vh;
+    background:url(../images/hero2.jpg);
+    background-size:cover;
+    font-family: 'Carter One', cursive;
+}
